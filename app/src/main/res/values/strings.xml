@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">seek-bar</string>
+    <string name="current_value_message">Current value is:</string>
 </resources>
